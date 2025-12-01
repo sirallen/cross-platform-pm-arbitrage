@@ -771,11 +771,12 @@ class AG(BaseModel, Generic[T]):
             )
 
         # Perform Transduction
-        transducer_class = (
-            PydanticTransducerCrewAI
-            if type(self.llm) == LLM
-            else PydanticTransducerVLLM
-        )
+        transducer_class = PydanticTransducerCrewAI
+        # transducer_class = (
+        #     PydanticTransducerCrewAI
+        #     if type(self.llm) == LLM
+        #     else PydanticTransducerVLLM
+        # )
         try:
             transduced_type = (
                 self.subset_atype(self.transduce_fields)
