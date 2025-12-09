@@ -1,0 +1,1857 @@
+[
+  {
+    "ticker.kalshi": "KX1SONGJUSTINBIEBER-DEC2726",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXAFDPERCENT-25-17.45",
+    "markets": [
+      {
+        "id.polym": 515897
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXAIRDROPHYPE-26JAN01",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXAIRDROPMEGA-26FEB01",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXAIRDROPPUMPFUN-25DEC01",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXALLVOTETG-25",
+    "markets": [
+      {
+        "id.polym": 518612
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXAOCENDORSE-25-BLAN",
+    "markets": [
+      {
+        "id.polym": 546087
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXAOCENDORSE-25-JJON",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXARGENTINAPARTY-LLA",
+    "markets": [
+      {
+        "id.polym": 521932
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXBOLIVIAFIRSTROUND-25-JQUI",
+    "markets": [
+      {
+        "id.polym": 563719
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXBOLIVIARUNOFF-25-SMED",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXBOLIVIASENATE-25-LIBRE",
+    "markets": [
+      {
+        "id.polym": 567673
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXBTCMAX100INAUG-25-JAN19-99999.99",
+    "markets": [
+      {
+        "id.polym": 518182
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXBTCMAX150-25-DEC31-149999.99",
+    "markets": [
+      {
+        "id.polym": 573656
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXBTCMAX150-25-JUN15-149999.99",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXBTCMENTIONVANCE-25MAY28-HAR",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXCABOUT-29-SB",
+    "markets": [
+      {
+        "id.polym": 564396
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCABOUT-29-TG",
+    "markets": [
+      {
+        "id.polym": 564412
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANADAPM-45-BQ",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXCANADAPM-45-L",
+    "markets": [
+      {
+        "id.polym": 516771
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANADAPM-45-P",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXCANCONSEATS-25-109.5",
+    "markets": [
+      {
+        "id.polym": 528703
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANCONSEATS-25-144.5",
+    "markets": [
+      {
+        "id.polym": 528705
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANCONSEATS-25-154.5",
+    "markets": [
+      {
+        "id.polym": 528706
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANGREENSEATS-25-0.0",
+    "markets": [
+      {
+        "id.polym": 529258
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANGREENSEATS-25-1.0",
+    "markets": [
+      {
+        "id.polym": 529259
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANGREENSEATS-25-4.0",
+    "markets": [
+      {
+        "id.polym": 529262
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANLIBSEATS-25-109.5",
+    "markets": [
+      {
+        "id.polym": 528921
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANLIBSEATS-25-210",
+    "markets": [
+      {
+        "id.polym": 528929
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANNDPSEATS-25-12.5",
+    "markets": [
+      {
+        "id.polym": 529252
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANNDPSEATS-25-23.0",
+    "markets": [
+      {
+        "id.polym": 529254
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCANNDPSEATS-25-28.0",
+    "markets": [
+      {
+        "id.polym": 529255
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCHILE1ROUND-25",
+    "markets": [
+      {
+        "id.polym": 571950
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCHOPSTICKS-25",
+    "markets": [
+      {
+        "id.polym": 513191
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCOLOMBIAPRES-26-DQUI",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXCOLOMBIAPRES-26-VDAV",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXCRITICSACTR-25-AJ",
+    "markets": [
+      {
+        "id.polym": 521843
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCRITICSACTR-25-KSG",
+    "markets": [
+      {
+        "id.polym": 521841
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCRITICSFOREIGN-25-EP",
+    "markets": [
+      {
+        "id.polym": 521864
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCRITICSFOREIGN-25-F",
+    "markets": [
+      {
+        "id.polym": 521865
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXCRITICSFOREIGN-25-GT",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXCRITICSLSERIESACTR-25-MB",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXCRITICSLSERIESACTR-25-T",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXDNCCHAIR-25DEC-BW",
+    "markets": [
+      {
+        "id.polym": 513435
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXDNCCHAIR-25DEC-ML",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXDNI-26DEC31-CS",
+    "markets": [
+      {
+        "id.polym": 520726
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXDOGEMAX69-25-JAN20-0.689",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXDUTCHCOALITION-27JAN01-PVV",
+    "markets": [
+      {
+        "id.polym": 586570
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXELECTIONMOVVAGOV-25NOV04-P4",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1-25JAN20-1",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1-25JAN20-15",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1-25JAN20-16",
+    "markets": [
+      {
+        "id.polym": 517888
+      },
+      {
+        "id.polym": 517889
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1-25JAN20-5",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1B-25JAN20-17.0",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1B-25JAN20-32.0",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1B-25JAN20-37.0",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY1B-25JAN20-47.0",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY2-25JAN21-3.0",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY3-25JAN22-4.0",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEOCOUNTDAY3-25JAN22-5.0",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEPA-26DEC31-MC",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXESPYBESTATHLETEWOMEN-25-AJA",
+    "markets": [
+      {
+        "id.polym": 563654
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXESPYSOCCER-25-LAM",
+    "markets": [
+      {
+        "id.polym": 563859
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXESPYTENNIS-25-TIE",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEUROVISION-25-AZE",
+    "markets": [
+      {
+        "id.polym": 521572
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISION-25-FRA",
+    "markets": [
+      {
+        "id.polym": 521580
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISION-25-GRE",
+    "markets": [
+      {
+        "id.polym": 521583
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISION-25-MAL",
+    "markets": [
+      {
+        "id.polym": 521591
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISION-25-NOR",
+    "markets": [
+      {
+        "id.polym": 521594
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISION-25-SLO",
+    "markets": [
+      {
+        "id.polym": 521599
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISION-25-SWE",
+    "markets": [
+      {
+        "id.polym": 521601
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISIONJURY-25-FRAN",
+    "markets": [
+      {
+        "id.polym": 537588
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXEUROVISIONJURY-25-ICE",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXEXTRADITEUSISRAELTALEX-25OCT01",
+    "markets": [
+      {
+        "id.polym": 578704
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXFBI-26DEC31-KPAX",
+    "markets": [
+      {
+        "id.polym": 514337
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXFBI-26DEC31-SB",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXFEDCHAIRNOM-29-DMAL",
+    "markets": [
+      {
+        "id.polym": 572474
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXFEDCHAIRNOM-29-LK",
+    "markets": [
+      {
+        "id.polym": 572477
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXFEDCHAIRNOM-29-PJEF",
+    "markets": [
+      {
+        "id.polym": 572488
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXFEDCHAIRNOM-29-SBES",
+    "markets": [
+      {
+        "id.polym": 572481
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXGABBARDCOUNT-25-B53",
+    "markets": [
+      {
+        "id.polym": 518141
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXGDPYEAR-25-T0.1",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXGER2ND-25-FDP",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXGER2ND-25-G",
+    "markets": [
+      {
+        "id.polym": 515863
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXGOVTRECOGSYRIA-25-T",
+    "markets": [
+      {
+        "id.polym": 515430
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXGRAMBCA-67-T",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXGRAMMYNOMBRA-68-ALF",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXGRAMMYNOMBRA-68-ONL",
+    "markets": [
+      {
+        "id.polym": 627968
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXGREENIND-26",
+    "markets": [
+      {
+        "id.polym": 518665
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXGROENSEATS-25OCT29-25-29",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXHEGSETHCOUNT-25-B57",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXINAUG-25-CS",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXINAUG-25-EM",
+    "markets": [
+      {
+        "id.polym": 515763
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXINAUG-25-MO",
+    "markets": [
+      {
+        "id.polym": 512236
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXINAUG-25-XJ",
+    "markets": [
+      {
+        "id.polym": 515473
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXLEASTSTREAMEDSONGTLOASG-25OCT10-CAN",
+    "markets": [
+      {
+        "id.polym": 620223
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXLEASTSTREAMEDSONGTLOASG-25OCT10-FATH",
+    "markets": [
+      {
+        "id.polym": 620224
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMCBORDERLANDSFOUR-79",
+    "markets": [
+      {
+        "id.polym": 570090
+      },
+      {
+        "id.polym": 570091
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMCMETALGEARSOLIDDELTASNAKEEATER-69",
+    "markets": [
+      {
+        "id.polym": 570084
+      },
+      {
+        "id.polym": 570085
+      },
+      {
+        "id.polym": 570086
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMCMETALGEARSOLIDDELTASNAKEEATER-89",
+    "markets": [
+      {
+        "id.polym": 570086
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMCPOKEMONLEGENDSZA-64",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXMCPOKEMONLEGENDSZA-89",
+    "markets": [
+      {
+        "id.polym": 570096
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMCPOKEMONLEGENDSZA-94",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXMEXICOCITY-25",
+    "markets": [
+      {
+        "id.polym": 518610
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMOLDOVAMAJORITY-25SEP28",
+    "markets": [
+      {
+        "id.polym": 599278
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMOSTSTREAMESTSTLOASG-25OCT10-ELD",
+    "markets": [
+      {
+        "id.polym": 618799
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXMRBEAST50M-25DEC31",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXNATLEMERGENCY-26JAN01",
+    "markets": [
+      {
+        "id.polym": 619416
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWCOINCHAIN-25-ETH",
+    "markets": [
+      {
+        "id.polym": 524601
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWPOPE-70-MZUP",
+    "markets": [
+      {
+        "id.polym": 525006
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWPOPE-70-PPAR",
+    "markets": [
+      {
+        "id.polym": 524996
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWROLEVOGUE-30JAN-AMY",
+    "markets": [
+      {
+        "id.polym": 563381
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWROLEVOGUE-30JAN-CHI",
+    "markets": [
+      {
+        "id.polym": 563380
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWROLEX-26JAN-JDOR",
+    "markets": [
+      {
+        "id.polym": 561593
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWROLEX-26JAN-NBIE",
+    "markets": [
+      {
+        "id.polym": 561602
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEWROLEX-26JAN-SSAN",
+    "markets": [
+      {
+        "id.polym": 561598
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNEXTDEF-29-NONE",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXNEXTDEF-29-SFEI",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXNEXTSPEAKER-31-HJEF",
+    "markets": [
+      {
+        "id.polym": 252679
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNLDFOURTH-25OCT29-4-VVD",
+    "markets": [
+      {
+        "id.polym": 587279
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNLDTHIRD-25OCT29-3-D66",
+    "markets": [
+      {
+        "id.polym": 587261
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNORWAYLABOUR-25SEP08-48",
+    "markets": [
+      {
+        "id.polym": 586346
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNORWAYLABOUR-25SEP08-54",
+    "markets": [
+      {
+        "id.polym": 586348
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNORWAYRED-25SEP08-84",
+    "markets": [
+      {
+        "id.polym": 578688
+      },
+      {
+        "id.polym": 578689
+      },
+      {
+        "id.polym": 578690
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNYCMAYOR2ND-25-BLAN",
+    "markets": [
+      {
+        "id.polym": 551983
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNYCMAYOR2ND-25-SSTR",
+    "markets": [
+      {
+        "id.polym": 551982
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXNYCMAYOR2ND-25-ZMAM",
+    "markets": [
+      {
+        "id.polym": 551980
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARCOUNTBRUTALIST-1",
+    "markets": [
+      {
+        "id.polym": 524016
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARCOUNTBRUTALIST-2",
+    "markets": [
+      {
+        "id.polym": 524017
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARCOUNTWICKED-8",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXOSCARGUESTS-25-EMUS",
+    "markets": [
+      {
+        "id.polym": 525160
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARGUESTS-25-KKAR",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXOSCARGUESTS-25-KWES",
+    "markets": [
+      {
+        "id.polym": 525165
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARGUESTS-25-TSWI",
+    "markets": [
+      {
+        "id.polym": 525161
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARINTLFILM-25-TGWTN",
+    "markets": [
+      {
+        "id.polym": 524203
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARINTLFILM-25-TSOTSF",
+    "markets": [
+      {
+        "id.polym": 524205
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARNOMBCASTING-26-ROB",
+    "markets": [
+      {
+        "id.polym": 615024
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXOSCARNOMSBANIMATEDF-26-INY",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXOSCARNOMSBANIMATEDF-26-ZOO",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXOSCARWIN-97-NB",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXPATELCOUNT-25-B59",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXPCTVOTECUOR1-25-ACUO-T20",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXPCTVOTECUOR1-25-ACUO-T35",
+    "markets": [
+      {
+        "id.polym": 554640
+      },
+      {
+        "id.polym": 554641
+      },
+      {
+        "id.polym": 554642
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPCTVOTEMAMR1-25-ZMAM-T25",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXPORTUGALPM-25-PEOPLE",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXPRESNIGERIA-27-BTIN",
+    "markets": [
+      {
+        "id.polym": 248332
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMD-28-AB",
+    "markets": [
+      {
+        "id.polym": 559660
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMD-28-GN",
+    "markets": [
+      {
+        "id.polym": 559652
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMD-28-GR",
+    "markets": [
+      {
+        "id.polym": 559670
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMD-28-HBID",
+    "markets": [
+      {
+        "id.polym": 559682
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMD-28-JAM",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMD-28-KH",
+    "markets": [
+      {
+        "id.polym": 559658
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMR-28-GA",
+    "markets": [
+      {
+        "id.polym": 561983
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESNOMR-28-KB",
+    "markets": [
+      {
+        "id.polym": 561992
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXPRESROMANIA24-NC",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXPRESTAIWAN-28-WLAI",
+    "markets": [
+      {
+        "id.polym": 252836
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRECBILL-26-BORDER",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRECBILL-26-IRAEVKILL",
+    "markets": [
+      {
+        "id.polym": 544536
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRECBILL-26-SALT",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRFKCOUNT-25-B55",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTALIENEARTH-75",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTALIENEARTH-80",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTALIENEARTH-90",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTBLACKPHONE2-60",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCAPTAINAMERICA-45",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCAPTAINAMERICA-70",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCAPTAINAMERICA-90",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCAUGHTSTEALING-50",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCAUGHTSTEALING-72",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCAUGHTSTEALING-80",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCAUGHTSTEALING-87",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCONJURING-50",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCONJURING-52",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTCONJURING-62",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTDOWNTONABBEY-82",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTDOWNTONABBEY-92",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTF1-70",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTF1-85",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTF1-87",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTF1-90",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTFIGHTORFLIGHT-70",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTFIGHTORFLIGHT-82",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTHAPPYGILMORE2-60",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTHAPPYGILMORE2-75",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTHIM-75",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTHOWTOTRAINYOURDRAGON-85",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTJURASSICWORLDREBIRTH-52",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTJWBALLERINA-60",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTJWBALLERINA-77",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTKARATEKIDLEGENDS-52",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTKARATEKIDLEGENDS-55",
+    "markets": [
+      {
+        "id.polym": 547406
+      },
+      {
+        "id.polym": 547407
+      },
+      {
+        "id.polym": 547408
+      },
+      {
+        "id.polym": 547409
+      },
+      {
+        "id.polym": 547410
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRTKARATEKIDLEGENDS-60",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTLILOANDSTITCH-45",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTLILOANDSTITCH-60",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTLILOANDSTITCH-70",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTLILOANDSTITCH-72",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTLILOANDSTITCH-80",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTMINECRAFT-10",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTMINECRAFT-48",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTMINECRAFT-80",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTMUFASA-50",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTMUFASA-75",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTMUFASA-80",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTNAKEDGUN-92",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTNOBODY2-45",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTNOBODY2-85",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTONEBATTLEAFTERANOTHER-96",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTROOFMAN-70",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTROOFMAN-75",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTROOFMAN-90",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTROSES-45",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTROSES-72",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTSMURFS-10",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTSMURFS-15",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTSMURFS-30",
+    "markets": [
+      {
+        "id.polym": 551892
+      },
+      {
+        "id.polym": 551893
+      },
+      {
+        "id.polym": 551894
+      },
+      {
+        "id.polym": 551895
+      },
+      {
+        "id.polym": 551896
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRTSUPERMAN-80",
+    "markets": [
+      {
+        "id.polym": 551889
+      },
+      {
+        "id.polym": 551890
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRTSUPERMAN-82",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTSUPERMAN-85",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHEAMATEUR-52",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHEAMATEUR-57",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHEAMATEUR-65",
+    "markets": [
+      {
+        "id.polym": 535368
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRTTHELONGWALK-75",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHELONGWALK-85",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHELONGWALK-90",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHELONGWALK-95",
+    "markets": [
+      {
+        "id.polym": 586081
+      },
+      {
+        "id.polym": 586082
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRTTHESMASHINGMACHINE-90",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHUNDERBOLTS-80",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHUNDERBOLTS-82",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHUNDERBOLTS-85",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTTHUNDERBOLTS-88",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRTWEAPONS-60",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXRUBIO-25JUL01-CDS",
+    "markets": [
+      {
+        "id.polym": 513150
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXRUBIO-25JUL01-RA",
+    "markets": [
+      {
+        "id.polym": 513165
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXSECAG-26DEC31-EB",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECAG-26DEC31-JH",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECAG-26DEC31-MD",
+    "markets": [
+      {
+        "id.polym": 513058
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXSECAGRO-26-DEC31-CH",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECAGRO-26-DEC31-SM",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECAGRO-26-DEC31-TMK",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECCOM-26DEC31-HL",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECENERGY-26DEC31-DB",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECENERGY-26DEC31-RP",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECHUD-26DEC31-BM",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECHUD-26DEC31-TS",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSECINT-26DEC31-KM",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSPEAKER-PS",
+    "markets": [
+      {
+        "id.polym": 512244
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXSPEAKERVOTE-25-1",
+    "markets": [
+      {
+        "id.polym": 517118
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXSPEAKERVOTE-25-10",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSPEAKERVOTE-25-13",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSPOTIFYALBUMTSWIFT-25-OCT25",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSPOTIFYALBUMTSWIFT-25-SEP13",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-ARI",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-BAD",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-CHA",
+    "markets": [
+      {
+        "id.polym": 555782
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-ELT",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-HAR",
+    "markets": [
+      {
+        "id.polym": 555807
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-POS",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-SZA",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSUPERBOWLHEADLINE-26-TRA",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXSWINGSTATES24DJT-3",
+    "markets": [
+      {
+        "id.polym": 509225
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXSWINGSTATES24DJT-4",
+    "markets": [
+      {
+        "id.polym": 509226
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXTOKENLAUNCHOPENSEA-26FEB01",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXTOPALBUMRECORDTLOASG-TLOASG-1",
+    "markets": [
+      {
+        "id.polym": 575507
+      },
+      {
+        "id.polym": 575508
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXTOPALBUMRECORDTLOASG-TLOASG-4",
+    "markets": [
+      {
+        "id.polym": 575507
+      },
+      {
+        "id.polym": 575508
+      },
+      {
+        "id.polym": 575509
+      },
+      {
+        "id.polym": 575510
+      },
+      {
+        "id.polym": 575511
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXTOPALBUMRECORDTLOASG-TLOASG-7",
+    "markets": [
+      {
+        "id.polym": 575507
+      },
+      {
+        "id.polym": 575508
+      },
+      {
+        "id.polym": 575509
+      },
+      {
+        "id.polym": 575510
+      },
+      {
+        "id.polym": 575511
+      },
+      {
+        "id.polym": 575512
+      },
+      {
+        "id.polym": 575513
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXTOPPOP-R",
+    "markets": [
+      {
+        "id.polym": 512372
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXTRUMPNETFAVINAUG",
+    "markets": [
+      {
+        "id.polym": 515820
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXTRUMPPRESS-25-MC",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXTRUMPPRESS-25-SJ",
+    "markets": [
+      {
+        "id.polym": 512827
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXTRUMPUFC-26JAN01",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXVANCE-26JAN01-MC",
+    "markets": [
+      {
+        "id.polym": 512318
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXVANCE-26JAN01-VR",
+    "markets": [
+      {
+        "id.polym": 512313
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXVOTECHAVEZDEREMER-26-JCUR",
+    "markets": [
+      {
+        "id.polym": 525470
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXVOTECHAVEZDEREMER-26-MHAS",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXVOTECHAVEZDEREMER-26-MLEE",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXVOTEPATEL-26-SC",
+    "markets": [
+      {
+        "id.polym": 520163
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXVOTEPERCENTCUOMO-25NOV04-27",
+    "markets": [
+      {
+        "id.polym": 589093
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXVOTEPERCENTNOLABOUR-25SEP08-12",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXVOTEPERCENTNOLABOUR-25SEP08-15",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXVOTEPERCENTNOLABOUR-25SEP08-29",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXVOTEPERCENTPIRATES-25OCT04",
+    "markets": [
+      {
+        "id.polym": 580918
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXVOTERECNCS-26-SCOL",
+    "markets": [
+      {
+        "id.polym": 557986
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXWALTZCOUNT-25-B56",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXWL-25-CHLOE",
+    "markets": [
+      {
+        "id.polym": 533189
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXWL-25-FABIAN",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXWL-25-MOOK",
+    "markets": [
+      {
+        "id.polym": 533188
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "KXWL-25-ZION",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "KXWLEADERPOPE-25-POPE",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "PRESPARTYCT-24-R",
+    "markets": [
+      {
+        "id.polym": 255071
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYFL-24-D",
+    "markets": []
+  },
+  {
+    "ticker.kalshi": "PRESPARTYIL-24-D",
+    "markets": [
+      {
+        "id.polym": 255101
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYMD-24-R",
+    "markets": [
+      {
+        "id.polym": 255140
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYMI-24-D",
+    "markets": [
+      {
+        "id.polym": 255143
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYMS-24-R",
+    "markets": [
+      {
+        "id.polym": 255155
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYNE1-24-D",
+    "markets": [
+      {
+        "id.polym": 500501
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYNE2-24-D",
+    "markets": [
+      {
+        "id.polym": 500541
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYNE3-24-D",
+    "markets": [
+      {
+        "id.polym": 500544
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYNH-24-D",
+    "markets": [
+      {
+        "id.polym": 255064
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYPA-24-D",
+    "markets": [
+      {
+        "id.polym": 255151
+      }
+    ]
+  },
+  {
+    "ticker.kalshi": "PRESPARTYVT-24-R",
+    "markets": [
+      {
+        "id.polym": 255187
+      }
+    ]
+  }
+]

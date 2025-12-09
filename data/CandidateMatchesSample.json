@@ -1,0 +1,314 @@
+[
+  {
+    "series_ticker.kalshi": "KXRTWITCHERS4",
+    "ticker.kalshi": "RTWITCHERS4-90",
+    "title.kalshi": "The Witcher: Season 4 Rotten Tomatoes score Above 90?",
+    "yes_sub_title.kalshi": "Above 90",
+    "markets.polym": [
+      {
+        "id.polym": 567297,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is less than 45?"
+      },
+      {
+        "id.polym": 567298,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 45 and 59?"
+      },
+      {
+        "id.polym": 567299,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 60 and 74?"
+      },
+      {
+        "id.polym": 567300,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is 75 or higher?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXRTWITCHERS4",
+    "ticker.kalshi": "RTWITCHERS4-75",
+    "title.kalshi": "The Witcher: Season 4 Rotten Tomatoes score Above 75?",
+    "yes_sub_title.kalshi": "Above 75",
+    "markets.polym": [
+      {
+        "id.polym": 567297,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is less than 45?"
+      },
+      {
+        "id.polym": 567298,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 45 and 59?"
+      },
+      {
+        "id.polym": 567299,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 60 and 74?"
+      },
+      {
+        "id.polym": 567300,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is 75 or higher?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXRTWITCHERS4",
+    "ticker.kalshi": "RTWITCHERS4-60",
+    "title.kalshi": "The Witcher: Season 4 Rotten Tomatoes score Above 60?",
+    "yes_sub_title.kalshi": "Above 60",
+    "markets.polym": [
+      {
+        "id.polym": 567297,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is less than 45?"
+      },
+      {
+        "id.polym": 567298,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 45 and 59?"
+      },
+      {
+        "id.polym": 567299,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 60 and 74?"
+      },
+      {
+        "id.polym": 567300,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is 75 or higher?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXRTWITCHERS4",
+    "ticker.kalshi": "RTWITCHERS4-45",
+    "title.kalshi": "The Witcher: Season 4 Rotten Tomatoes score Above 45?",
+    "yes_sub_title.kalshi": "Above 45",
+    "markets.polym": [
+      {
+        "id.polym": 567297,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is less than 45?"
+      },
+      {
+        "id.polym": 567298,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 45 and 59?"
+      },
+      {
+        "id.polym": 567299,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is between 60 and 74?"
+      },
+      {
+        "id.polym": 567300,
+        "question.polym": "\"The Witcher: Season 4\" Rotten Tomatoes score is 75 or higher?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXTOP10TAYLORSWIFT",
+    "ticker.kalshi": "KXTOP10TAYLORSWIFT-25OCT18-TAY",
+    "title.kalshi": "Taylor Swift holds top ten spots on the Billboard Hot 100?",
+    "yes_sub_title.kalshi": "On Oct 18, 2025",
+    "markets.polym": [
+      {
+        "id.polym": 576199,
+        "question.polym": "Taylor Swift holds top ten spots on the Billboard Hot 100 for the week of October 18th?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXEUROVISIONHOST",
+    "ticker.kalshi": "KXEUROVISIONHOST-26-INNSBRUCK",
+    "title.kalshi": "Will Innsbruck host Eurovision 2026?",
+    "yes_sub_title.kalshi": "Innsbruck",
+    "markets.polym": [
+      {
+        "id.polym": 551405,
+        "question.polym": "Will Graz host Eurovision 2026?"
+      },
+      {
+        "id.polym": 551406,
+        "question.polym": "Will Vienna host Eurovision 2026?"
+      },
+      {
+        "id.polym": 551407,
+        "question.polym": "Will Innsbruck host Eurovision 2026?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXEUROVISIONHOST",
+    "ticker.kalshi": "KXEUROVISIONHOST-26-VIENNA",
+    "title.kalshi": "Will Vienna host Eurovision 2026?",
+    "yes_sub_title.kalshi": "Vienna",
+    "markets.polym": [
+      {
+        "id.polym": 551405,
+        "question.polym": "Will Graz host Eurovision 2026?"
+      },
+      {
+        "id.polym": 551406,
+        "question.polym": "Will Vienna host Eurovision 2026?"
+      },
+      {
+        "id.polym": 551407,
+        "question.polym": "Will Innsbruck host Eurovision 2026?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXEUROVISIONHOST",
+    "ticker.kalshi": "KXEUROVISIONHOST-26-GRAZ",
+    "title.kalshi": "Will Graz host Eurovision 2026?",
+    "yes_sub_title.kalshi": "Graz",
+    "markets.polym": [
+      {
+        "id.polym": 551405,
+        "question.polym": "Will Graz host Eurovision 2026?"
+      },
+      {
+        "id.polym": 551406,
+        "question.polym": "Will Vienna host Eurovision 2026?"
+      },
+      {
+        "id.polym": 551407,
+        "question.polym": "Will Innsbruck host Eurovision 2026?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXELONATTEND",
+    "ticker.kalshi": "KXELONATTEND-25-ELO",
+    "title.kalshi": "Will Elon Musk attend any UFC event?",
+    "yes_sub_title.kalshi": "Elon Musk",
+    "markets.polym": [
+      {
+        "id.polym": 576836,
+        "question.polym": "Will Elon Musk attend a UFC event by December 31?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXMCHKSILKSONG",
+    "ticker.kalshi": "KXMCHKSILKSONG-94",
+    "title.kalshi": "Hollow Knight: Silksong Metacritic score 95 or greater?",
+    "yes_sub_title.kalshi": "95 or greater",
+    "markets.polym": [
+      {
+        "id.polym": 581640,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be <85"
+      },
+      {
+        "id.polym": 581641,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be 85-89"
+      },
+      {
+        "id.polym": 581642,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be 90-94"
+      },
+      {
+        "id.polym": 581643,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore 95+"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXMCHKSILKSONG",
+    "ticker.kalshi": "KXMCHKSILKSONG-89",
+    "title.kalshi": "Hollow Knight: Silksong Metacritic score 90 or greater?",
+    "yes_sub_title.kalshi": "90 or greater",
+    "markets.polym": [
+      {
+        "id.polym": 581640,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be <85"
+      },
+      {
+        "id.polym": 581641,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be 85-89"
+      },
+      {
+        "id.polym": 581642,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be 90-94"
+      },
+      {
+        "id.polym": 581643,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore 95+"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXMCHKSILKSONG",
+    "ticker.kalshi": "KXMCHKSILKSONG-84",
+    "title.kalshi": "Hollow Knight: Silksong Metacritic score 85 or greater?",
+    "yes_sub_title.kalshi": "85 or greater",
+    "markets.polym": [
+      {
+        "id.polym": 581640,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be <85"
+      },
+      {
+        "id.polym": 581641,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be 85-89"
+      },
+      {
+        "id.polym": 581642,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore be 90-94"
+      },
+      {
+        "id.polym": 581643,
+        "question.polym": "Will \"Hollow Knight: Silksong\" Metascore 95+"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXTIMEHUMAN",
+    "ticker.kalshi": "KXTIMEHUMAN-25-HUM",
+    "title.kalshi": "Will Any Human being be Time Person of the Year in 2025?",
+    "yes_sub_title.kalshi": "Any Human being",
+    "markets.polym": [
+      {
+        "id.polym": 619815,
+        "question.polym": "Will TIME's Person of the Year for 2025 be a human?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXTRUMPUFC",
+    "ticker.kalshi": "KXTRUMPUFC-26JAN01",
+    "title.kalshi": "Will  attend another numbered UFC event this year?",
+    "yes_sub_title.kalshi": "Yes",
+    "markets.polym": [
+      {
+        "id.polym": 562166,
+        "question.polym": "Will Trump attend UFC 318?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KX1SONGJUSTINBIEBER",
+    "ticker.kalshi": "KX1SONGJUSTINBIEBER-DEC2726",
+    "title.kalshi": "Will Justin Bieber have a #1 hit by Dec 27, 2026?",
+    "yes_sub_title.kalshi": "By Dec 27, 2026",
+    "markets.polym": [
+      {
+        "id.polym": 588007,
+        "question.polym": "Will a Justin Bieber song reach #1 this year?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXTIMEPOTYWOMAN",
+    "ticker.kalshi": "KXTIMEPOTYWOMAN-25",
+    "title.kalshi": "TIME's Person of the Year for 2025 be a woman?",
+    "yes_sub_title.kalshi": "Will Times Person of the Year be a woman?",
+    "markets.polym": [
+      {
+        "id.polym": 563083,
+        "question.polym": "Will TIME's Person of the Year for 2025 be a woman?"
+      }
+    ]
+  },
+  {
+    "series_ticker.kalshi": "KXZUCKMUSK",
+    "ticker.kalshi": "KXZUCKMUSK-25",
+    "title.kalshi": "Will Zuckerberg and Musk fight this year?",
+    "yes_sub_title.kalshi": "In 2025",
+    "markets.polym": [
+      {
+        "id.polym": 251929,
+        "question.polym": "Will Musk fight Zuck in 2023?"
+      }
+    ]
+  }
+]

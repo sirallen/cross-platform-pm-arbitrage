@@ -1,4 +1,4 @@
-# [AI-Enabled Semantic Matching for Cross-Platform Prediction Market Arbitrage]
+# AI-Enabled Semantic Matching for Cross-Platform Prediction Market Arbitrage
 
 ## Description
 
